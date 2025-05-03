@@ -66,7 +66,7 @@
 ![Booststrap](https://img.shields.io/badge/bootstrap-violet?style=for-the-badge&logoColor=blue)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-red?style=for-the-badge&logoColor=blue)
 ![Numpy](https://img.shields.io/badge/numpy-green?style=for-the-badge&logoColor=blue)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logoColor=blue)
