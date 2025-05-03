@@ -8,10 +8,14 @@
 </h1>
 <h3 align="center">Finance-Oriented Engineer | Fullstack Developer |  DataScience | Business Inteligence</h3>
 
+---
 ###
+
 <h3 align="center">Sobre mí
     <img src="./img/trabajo.png" alt="Finance Fullstack Developer Banner" width="10%" align=left>
 </h3>
+
+
 - 🎓 Apasionado por el desarrollo de soluciones tecnológicas aplicadas al mundo financiero y otros sectores.
 - 💼 Experiencia construyendo aplicaciones modernas, robustas y seguras.
 - 📊 Enfocado en la automatización, visualización, análisis de datos financieros, métricas de costos, ventas, presupuestos.
