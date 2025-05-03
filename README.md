@@ -1,6 +1,6 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="./img/image-github-walter.png" alt="Finance Fullstack Developer Banner" width="50%" height="50%">
+  <img src="./img/image-github-walter.png" alt="Finance Fullstack Developer Banner" width="90%" height="50%">
 </p>
 
 <h1 align="center">Hola 👋, soy [Walter]</h1>
@@ -23,8 +23,7 @@
 - [Mi portafolio versión en 3d](https://walter-portfolio-3d.netlify.app/)
 
 ---
-
-### 🛠️ Tecnologías que utilizo
+### Tecnologías que utilizo
 
 #### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,6 +31,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/Typescripts-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logoColor=blue)
+
+---
 
 #### Frameworks & Librerías
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -40,9 +43,22 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Booststrap](https://img.shields.io/badge/bootstrap-violet?style=for-the-badge&logoColor=blue)
+![Pandas](https://img.shields.io/badge/pandas-red?style=for-the-badge&logoColor=blue)
+![Numpy](https://img.shields.io/badge/numpy-green?style=for-the-badge&logoColor=blue)
+![Tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logoColor=blue)
+![Matplotly](https://img.shields.io/badge/matplotly-%20gray?style=for-the-badge&logoColor=blue)
 
 ---
-## 🚀 Proyectos Destacados
+#### Base de Datos
+![MySQL](https://img.shields.io/badge/mysql-%20blue?style=for-the-badge&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/mongodb-%20darkgreen?style=for-the-badge&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%20blue?style=for-the-badge&logoColor=blue)
+![SQLite](https://img.shields.io/badge/sqlite-purple?style=for-the-badge&logoColor=blue)
+![FireBase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logoColor=blue)
+
+---
+###  Proyectos Destacados
 
   * Orientados a Finanzas 
 - [App Frontera de Eficiencia](https://github.com/wgekko/portfolio_management_dos)
@@ -52,7 +68,6 @@
 - [App Métricas de Activos Financieros](https://github.com/wgekko/dashboard-finance)
 - [App Análisis del Dólar](https://github.com/wgekko/analisis_dolar)
 - [App Análisis Cripto Basico](https://github.com/wgekko/analisis-cripto)
-
 
   * Orientados a Automatización
 - [App Presupuesto](https://github.com/wgekko/app-presupuesto-streamlit)
@@ -74,7 +89,6 @@
 - [App JWT - Auth](https://github.com/wgekko/login-app-mern-jwt-token-auth-otp-verification)
 - [App Login JWT](https://github.com/wgekko/login_jwt)
 - [App Qwik Movie](https://github.com/wgekko/app-qwik-movies)
-- 
 
   * Java
 - [App Control de Stock](https://github.com/wgekko/Java-JDBC-Control-de-Stock)
@@ -98,9 +112,9 @@
 
 ### 📫 Cómo contactarme
 
-- Email: [waltergomez75@gmail.com](mailto:waltergomez75@gmail.com)
-- LinkedIn: [linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
-- Portafolio: [https://walter-portfolio-animado.netlify.app/](https://walter-portfolio-animado.netlify.app/)
+- Email: [[!Mi Mail](https://img.shields.io/badge/mail-darkblue?style=for-the-badge&logoColor=blue](mailto:waltergomez75@gmail.com)
+- LinkedIn: [[!Mi linkedIn](https://img.shields.io/badge/linkedIn-skyblue?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
+- Portafolio: [[!Mi Web Site](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/)
 
 ---
 
