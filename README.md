@@ -3,9 +3,11 @@
   <img src="./img/image-github-walter.png" alt="Finance Fullstack Developer Banner" width="50%" height="50%">
 </p>
 
-<h1 align="center">Hola 👋, soy [Walter]</h1>
+<h1 align="center">Hola 👋, soy [Walter]
+    <img src="./img/codificacion.png" alt="Finance Fullstack Developer Banner" width="10%" align=right>
+</h1>
 <h3 align="center">Finance-Oriented Engineer | Fullstack Developer |  DataScience | Business Inteligence</h3>
-
+#<img src="./img/codificacion.png" alt="Finance Fullstack Developer Banner" width="10%" align=right>
 ---
 
 ### 🧠 Sobre mí
