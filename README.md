@@ -1,5 +1,5 @@
 <!-- Encabezado con banner -->
-![banner de Walter Gomez](./img/image-github-walter.png)
+![banner de Walter Gomez](./img/image-github-walter-2.png)
 <p align="center">
   <img src="./img/image-github-walter.png" alt="Finance Fullstack Developer Banner" width="50%" height="50%">
 </p>
