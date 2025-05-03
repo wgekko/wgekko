@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hola 👋, soy [Walter]</h1>
-<h3 align="center">Fullstack Developer | Finance-Oriented Engineer</h3>
+<h3 align="center">Finance-Oriented Engineer | Fullstack Developer |  DataScience | Business Inteligence</h3>
 
 ---
 
@@ -13,18 +13,18 @@
 - 🎓 Apasionado por el desarrollo de soluciones tecnológicas aplicadas al mundo financiero y otros sectores.
 - 💼 Experiencia construyendo aplicaciones modernas, robustas y seguras.
 - 📊 Enfocado en la automatización, visualización, análisis de datos financieros, métricas de costos, ventas, presupuestos.
-- 🔭 Actualmente trabajando en proyectos de DataScience, Business Inteligence, app de análsis y métricasa, dashboards y simuladores de inversión.
+- 🔭 Actualmente trabajando en proyectos de DataScience, Business Inteligence, app de análsis y métricas, dashboards y simuladores de inversión.
 
 ---
 ###  Mi Portfolio
 - [![Mi Portfolio de servicio](https://img.shields.io/badge/portfolio%20de%20servicio-5d0ff3?style=for-the-badge)](https://walter-portfolio-animado.netlify.app/) 
-- [Mi portafolio de servicio](https://walter-portfolio-animado.netlify.app/)
+
 - [![Mi Portfolio Web](https://img.shields.io/badge/portfolio%20web-a936bd?style=for-the-badge)](https://walter-gomez-portfolio-resumen.netlify.app/) 
-- [Mi portafolio web](https://walter-gomez-portfolio-resumen.netlify.app/)
+
 - [![Mi Portfolio en Inglés](https://img.shields.io/badge/portfolio%20en%20ingl%C3%A9s-1444ec?style=for-the-badge)](https://walter-portfolio-english.netlify.app/) 
-- [Mi portafolio en Inglés](https://walter-portfolio-english.netlify.app/)
+
 - [![Mi Portfolio 3d](https://img.shields.io/badge/portfolio%203d-1bcd46?style=for-the-badge)](https://walter-portfolio-3d.netlify.app/) 
-- [Mi portafolio 3d](https://walter-portfolio-3d.netlify.app/)
+
 
 ---
 ### Tecnologías que utilizo
