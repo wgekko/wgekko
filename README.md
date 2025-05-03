@@ -110,13 +110,9 @@
 ---
 
 ### 📫 Cómo contactarme
-[![Mi Mail](https://img.shields.io/badge/mail-darkblue?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)
-- Email:[Mail](mailto:waltergomez75@gmail.com)]
-[![Mi linkedIn](https://img.shields.io/badge/linkedIn-skyblue?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/) 
-- LinkedIn:[LinkedIn](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)]
+[![Mi Mail](https://img.shields.io/badge/mail-FF0000?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)
+[![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/) 
 [![Mi Web Site](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
-- Portafolio:
-  [Mi Web Site](https://walter-portfolio-animado.netlify.app/)]
 
 ---
 
