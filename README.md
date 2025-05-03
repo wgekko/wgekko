@@ -30,12 +30,11 @@
 - [![Mi Portfolio 3d](https://img.shields.io/badge/portfolio%203d-1bcd46?style=for-the-badge)](https://walter-portfolio-3d.netlify.app/) 
 
 ---
-
-### 📫 Cómo contactarme
-<h2 align="center">Hola 👋, soy Walter
+<h2 align="center">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10d3lnZXpjbHBvOHc4d2Rrb2Q3amhpaHZma2htZWVkNzNoNTJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Finance Fullstack Developer Banner" width="20%" align=left>
 </h2>
 
+### 📫 Cómo contactarme
 
 - [![Mi Mail](https://img.shields.io/badge/mail-FF0000?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)
 
