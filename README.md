@@ -12,8 +12,8 @@
 
 - 🎓 Apasionado por el desarrollo de soluciones tecnológicas aplicadas al mundo financiero y otros sectores.
 - 💼 Experiencia construyendo aplicaciones modernas, robustas y seguras.
-- 📊 Enfocado en la automatización, visualización y análisis de datos financieros.
-- 🔭 Actualmente trabajando en proyectos de fintech, dashboards y simuladores de inversión.
+- 📊 Enfocado en la automatización, visualización, análisis de datos financieros, métricas de costos, ventas, presupuestos.
+- 🔭 Actualmente trabajando en proyectos de DataScience, Business Inteligence, app de análsis y métricasa, dashboards y simuladores de inversión.
 
 ---
 ###  Mi Portfolio
