@@ -5,6 +5,7 @@
 
 <h1 align="center">Hola 👋, soy Walter
     <img src="./img/codificacion.png" alt="Finance Fullstack Developer Banner" width="10%" align=right>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10d3lnZXpjbHBvOHc4d2Rrb2Q3amhpaHZma2htZWVkNzNoNTJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Finance Fullstack Developer Banner" width="10%" align=left>
 </h1>
 <h3 align="center">Finance-Oriented Engineer | Fullstack Developer |  DataScience | Business Inteligence</h3>
 
