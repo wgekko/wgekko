@@ -11,10 +11,8 @@
 ---
 ###
 
-<h3 align="center">Sobre mí
-    <img src="./img/trabajo.png" alt="Finance Fullstack Developer Banner" width="10%" align=left>
-</h3>
-
+<h3 align="center">Sobre mí</h3>
+<img src="./img/trabajo.png" alt="Finance Fullstack Developer Banner" width="10%" align=left>
 
 - 🎓 Apasionado por el desarrollo de soluciones tecnológicas aplicadas al mundo financiero y otros sectores.
 - 💼 Experiencia construyendo aplicaciones modernas, robustas y seguras.
