@@ -100,7 +100,7 @@
 
 - Email: [waltergomez75@gmail.com](mailto:waltergomez75@gmail.com)
 - LinkedIn: [linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
-- Portafolio: [https://walter-portfolio-animado.netlify.app/]((https://walter-portfolio-animado.netlify.app/))
+- Portafolio: [https://walter-portfolio-animado.netlify.app/](https://walter-portfolio-animado.netlify.app/)
 
 ---
 
