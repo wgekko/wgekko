@@ -26,12 +26,12 @@
 ### Tecnologías que utilizo
 
 #### Lenguajes
-![Python](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-skyblue?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-darkorange?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-blue?style=flat&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -110,13 +110,13 @@
 ---
 
 ### 📫 Cómo contactarme
-
-- Email:
-  [[!Mi Mail](https://img.shields.io/badge/mail-darkblue?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)
-- LinkedIn:
-  [[!Mi linkedIn](https://img.shields.io/badge/linkedIn-skyblue?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
+[![Mi Mail](https://img.shields.io/badge/mail-darkblue?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)
+- Email:[Mail](mailto:waltergomez75@gmail.com)]
+[![Mi linkedIn](https://img.shields.io/badge/linkedIn-skyblue?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/) 
+- LinkedIn:[LinkedIn](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)]
+[![Mi Web Site](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
 - Portafolio:
-  [[!Mi Web Site](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/)
+  [Mi Web Site](https://walter-portfolio-animado.netlify.app/)]
 
 ---
 
