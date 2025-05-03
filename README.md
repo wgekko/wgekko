@@ -50,11 +50,11 @@
 
 ---
 #### Base de Datos
-![MySQL](https://img.shields.io/badge/mysql-%20blue?style=for-the-badge&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/mongodb-%20darkgreen?style=for-the-badge&logoColor=blue)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%20blue?style=for-the-badge&logoColor=blue)
-![SQLite](https://img.shields.io/badge/sqlite-purple?style=for-the-badge&logoColor=blue)
-![FireBase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logoColor=blue)
+![MySQL](https://img.shields.io/badge/mysql-33a4ff?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-16b36a%20?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/mongodb-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-0c5f26?style=for-the-badge&logo=sqlite&logoColor=white)
+![FireBase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 ###  Proyectos Destacados
@@ -110,9 +110,9 @@
 ---
 
 ### 📫 Cómo contactarme
-[![Mi Mail](https://img.shields.io/badge/mail-FF0000?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)
-[![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/) 
-[![Mi Web Site](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
+[![Mi Mail](https://img.shields.io/badge/mail-FF0000?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com) --- 
+[![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/) ---
+[![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
 
 ---
 
