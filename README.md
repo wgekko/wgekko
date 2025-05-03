@@ -57,7 +57,7 @@
 ![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=blue)
 ![Spring Boot](https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=blue)
 ![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite&logoColor=blue)
-![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=blue)
+![Angular](https://img.shields.io/badge/angular-b4092d?style=for-the-badge&logo=angular&logoColor=blue)
 ![React](https://img.shields.io/badge/react-skyblue?style=for-the-badge&logo=react&logoColor=blue)
 ![Booststrap](https://img.shields.io/badge/bootstrap-violet?style=for-the-badge&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/pandas-red?style=for-the-badge&logoColor=blue)
