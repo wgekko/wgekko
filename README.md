@@ -30,9 +30,7 @@
 - [![Mi Portfolio 3d](https://img.shields.io/badge/portfolio%203d-1bcd46?style=for-the-badge)](https://walter-portfolio-3d.netlify.app/) 
 
 ---
-<h2 align="center">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10d3lnZXpjbHBvOHc4d2Rrb2Q3amhpaHZma2htZWVkNzNoNTJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Finance Fullstack Developer Banner" width="20%" align=left>
-</h2>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10d3lnZXpjbHBvOHc4d2Rrb2Q3amhpaHZma2htZWVkNzNoNTJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Finance Fullstack Developer Banner" width="20%" align=left></h2>
 
 ### 📫 Cómo contactarme
 
