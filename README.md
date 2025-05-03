@@ -1,6 +1,6 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="./img/image-github-walter.png" alt="Finance Fullstack Developer Banner" width="90%" height="50%">
+  <img src="./img/image-github-walter.png" alt="Finance Fullstack Developer Banner" width="50%" height="50%">
 </p>
 
 <h1 align="center">Hola 👋, soy [Walter]</h1>
@@ -26,23 +26,22 @@
 ### Tecnologías que utilizo
 
 #### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![CSS](https://img.shields.io/badge/Typescripts-1572B6?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logoColor=blue)
+![Python](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-darkorange?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=flat&logoColor=blue)
 
 ---
 
 #### Frameworks & Librerías
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-red?style=for-the-badge&logo=streamlit&logoColor=blue)
+![Spring Boot](https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=blue)
+![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite&logoColor=blue)
+![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=blue)
+![React](https://img.shields.io/badge/react-skyblue?style=for-the-badge&logo=react&logoColor=blue)
 ![Booststrap](https://img.shields.io/badge/bootstrap-violet?style=for-the-badge&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/pandas-red?style=for-the-badge&logoColor=blue)
 ![Numpy](https://img.shields.io/badge/numpy-green?style=for-the-badge&logoColor=blue)
@@ -112,9 +111,12 @@
 
 ### 📫 Cómo contactarme
 
-- Email: [[!Mi Mail](https://img.shields.io/badge/mail-darkblue?style=for-the-badge&logoColor=blue](mailto:waltergomez75@gmail.com)
-- LinkedIn: [[!Mi linkedIn](https://img.shields.io/badge/linkedIn-skyblue?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
-- Portafolio: [[!Mi Web Site](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/)
+- Email:
+  [[!Mi Mail](https://img.shields.io/badge/mail-darkblue?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)
+- LinkedIn:
+  [[!Mi linkedIn](https://img.shields.io/badge/linkedIn-skyblue?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
+- Portafolio:
+  [[!Mi Web Site](https://img.shields.io/badge/portfolio-red?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/)
 
 ---
 
