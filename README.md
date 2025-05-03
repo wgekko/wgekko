@@ -17,7 +17,7 @@
 
 ---
 ###  Mi Portfolio
-- [![Mi Portfolio de servicio](https://img.shields.io/badge/portfolio%20de%20servicio-#5d0ff3?style=for-the-badge)](https://walter-portfolio-animado.netlify.app/) 
+- [![Mi Portfolio de servicio](https://img.shields.io/badge/portfolio%20de%20servicio-5d0ff3?style=for-the-badge)](https://walter-portfolio-animado.netlify.app/) 
 - [Mi portafolio de servicio](https://walter-portfolio-animado.netlify.app/)
 - [![Mi Portfolio Web](https://img.shields.io/badge/portfolio%20web-a936bd?style=for-the-badge)](https://walter-gomez-portfolio-resumen.netlify.app/) 
 - [Mi portafolio web](https://walter-gomez-portfolio-resumen.netlify.app/)
@@ -115,9 +115,9 @@
 
 ### 📫 Cómo contactarme
 
-[![Mi Mail](https://img.shields.io/badge/mail-FF0000?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com) #### 
-[![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/) ####
-[![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
+- [![Mi Mail](https://img.shields.io/badge/mail-FF0000?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)  
+- [![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/) 
+- [![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
 
 ---
 
