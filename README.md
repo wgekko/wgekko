@@ -3,7 +3,7 @@
   <img src="./img/image-github-walter.png" alt="Finance Fullstack Developer Banner" width="50%" height="50%">
 </p>
 
-<h1 align="center">Hola 👋, soy [Walter]
+<h1 align="center">Hola 👋, soy Walter
     <img src="./img/codificacion.png" alt="Finance Fullstack Developer Banner" width="10%" align=right>
 </h1>
 <h3 align="center">Finance-Oriented Engineer | Fullstack Developer |  DataScience | Business Inteligence</h3>
@@ -31,6 +31,18 @@
 
 - [![Mi Portfolio 3d](https://img.shields.io/badge/portfolio%203d-1bcd46?style=for-the-badge)](https://walter-portfolio-3d.netlify.app/) 
 
+---
+
+### 📫 Cómo contactarme
+---
+###
+- [![Mi Mail](https://img.shields.io/badge/mail-FF0000?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)
+---
+###
+- [![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
+---
+###
+- [![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
 
 ---
 ### Tecnologías que utilizo
@@ -122,14 +134,6 @@
 - [App Control de Gastos-efecto lluvia](https://github.com/wgekko/control-de-gastos-lluvia)
 - [App Control de Gastos-animado](https://github.com/wgekko/control-de-gastos-animado)
 - [App Gestor Clave- efecto con iluminacion](https://github.com/wgekko/generador_clave_iluminado)
-
----
-
-### 📫 Cómo contactarme
-
-- [![Mi Mail](https://img.shields.io/badge/mail-FF0000?style=for-the-badge&logoColor=blue)](mailto:waltergomez75@gmail.com)  
-- [![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/) 
-- [![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
 
 ---
 
