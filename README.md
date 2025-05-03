@@ -51,6 +51,12 @@
 ![Numpy](https://img.shields.io/badge/numpy-green?style=for-the-badge&logoColor=blue)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logoColor=blue)
 ![Matplotly](https://img.shields.io/badge/matplotly-%20gray?style=for-the-badge&logoColor=blue)
+![Scikit-learn](https://img.shields.io/badge/scikit%20learn-2aae97?style=for-the-badge)
+![Imbalance-Learning](https://img.shields.io/badge/Imbalance%20Learning-85b606?style=for-the-badge)
+![Machine-Learning](https://img.shields.io/badge/Machine%20Learning-de0ce2?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0ce2b9?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-e20c62?style=for-the-badge)
+![FastAI](https://img.shields.io/badge/FastAI-bfbe8a?style=for-the-badge)
 
 ---
 #### Base de Datos
