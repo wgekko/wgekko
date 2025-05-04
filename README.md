@@ -76,7 +76,7 @@
 ![Imbalance-Learning](https://img.shields.io/badge/Imbalance%20Learning-85b606?style=for-the-badge)
 ![Machine-Learning](https://img.shields.io/badge/Machine%20Learning-de0ce2?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0ce2b9?style=for-the-badge)
-[PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![FastAI](https://img.shields.io/badge/FastAI-bfbe8a?style=for-the-badge)
 
