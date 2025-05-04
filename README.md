@@ -1,7 +1,7 @@
 <!-- Encabezado con banner -->
 
 <p align="center">
-  <img src="./img/image-github-walter.png" alt="Finance Fullstack Developer Banner" width="50%" height="50%">
+  <img src="./img/github-image-walter.png" alt="Finance Fullstack Developer Banner" width="50%" height="50%">
 </p>
 
 <h1 align="center">Hola 👋, soy Walter
