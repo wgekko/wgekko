@@ -47,6 +47,11 @@
 
 - [![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
 
+---
+###
+<%- await embed(`example-languages-pdf`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
+
+
 
 ---
 ### Tecnologías que utilizo
