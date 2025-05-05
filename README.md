@@ -38,6 +38,8 @@
 
 ---
 
+PRESENTACIÓN 
+
 https://github.com/user-attachments/assets/9db46cc8-71db-425e-be2a-553656b2e2c0
 
 
@@ -48,10 +50,6 @@ https://github.com/user-attachments/assets/9db46cc8-71db-425e-be2a-553656b2e2c0
 - [![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
 
 - [![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/)
-
-
-<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10d3lnZXpjbHBvOHc4d2Rrb2Q3amhpaHZma2htZWVkNzNoNTJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Finance Fullstack Developer Banner" width="20%" align=center></h2>
-
 
 
 ---
