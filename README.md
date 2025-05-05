@@ -37,7 +37,9 @@
 - [![Mi Portfolio 3d](https://img.shields.io/badge/portfolio%203d-1bcd46?style=for-the-badge)](https://walter-portfolio-3d.netlify.app/) 
 
 ---
-<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10d3lnZXpjbHBvOHc4d2Rrb2Q3amhpaHZma2htZWVkNzNoNTJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Finance Fullstack Developer Banner" width="20%" align=center></h2>
+
+https://github.com/user-attachments/assets/9db46cc8-71db-425e-be2a-553656b2e2c0
+
 
 ### 📫 Cómo contactarme
 
@@ -48,12 +50,7 @@
 - [![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/)
 
 
-https://github.com/user-attachments/assets/9db46cc8-71db-425e-be2a-553656b2e2c0
-
-
----
-###
-<%- await embed(`example-languages-pdf`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW10d3lnZXpjbHBvOHc4d2Rrb2Q3amhpaHZma2htZWVkNzNoNTJkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Finance Fullstack Developer Banner" width="20%" align=center></h2>
 
 
 
