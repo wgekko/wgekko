@@ -45,7 +45,11 @@
 
 - [![Mi linkedIn](https://img.shields.io/badge/linkedIn-1DA1F2?style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/walter-gomez-fullstack-developer-datascience-businessintelligence-finanzas-python/)
 
-- [![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/) 
+- [![Mi Web Site](https://img.shields.io/badge/portfolio-a30ff3?style=for-the-badge&logoColor=blue)](https://walter-portfolio-animado.netlify.app/)
+
+
+https://github.com/user-attachments/assets/9db46cc8-71db-425e-be2a-553656b2e2c0
+
 
 ---
 ###
