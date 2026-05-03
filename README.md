@@ -57,6 +57,47 @@
   </tr>
 </table>
 
+### Skills
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <!-- Primera Fila: Lenguajes y Herramientas Base -->
+  <tr style="border: none;">
+    <td align="center" style="border: none;"><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"></a></td>
+    <td align="center" style="border: none;"><a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"></a></td>
+    <td align="center" style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"></a></td>
+    <td align="center" style="border: none;"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"></a></td>
+    <td align="center" style="border: none;"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"></a></td>
+    <td align="center" style="border: none;"><a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust"></a></td>
+    <td align="center" style="border: none;"><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code"></a></td>
+    <td align="center" style="border: none;"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"></a></td>
+    <td align="center" style="border: none;"><a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"></a></td>
+  </tr>
+  <!-- Segunda Fila: Web Frameworks y Bases de Datos -->
+  <tr style="border: none;">
+    <td align="center" style="border: none;"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"></a></td>
+    <td align="center" style="border: none;"><a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs"></a></td>
+    <td align="center" style="border: none;"><a href="https://angular.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular"></a></td>
+    <td align="center" style="border: none;"><a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS"></a></td>
+    <td align="center" style="border: none;"><a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"></a></td>
+    <td align="center" style="border: none;"><a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API"></a></td>
+    <td align="center" style="border: none;"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"></a></td>
+    <td align="center" style="border: none;"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"></a></td>
+    <td align="center" style="border: none;"><a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase"></a></td>
+  </tr>
+  <!-- Tercera Fila: Data Science, Machine Learning e IA -->
+  <tr style="border: none;">
+    <td align="center" style="border: none;"><a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"></a></td>
+    <td align="center" style="border: none;"><a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch"></a></td>
+    <td align="center" style="border: none;"><a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit-learn"></a></td>
+    <td align="center" style="border: none;"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas"></a></td>
+    <td align="center" style="border: none;"><a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy"></a></td>
+    <td align="center" style="border: none;"><a href="https://matplotlib.org/"><img src="https://img.icons8.com/color/48/matplotlib.png" width="36" height="36" alt="Matplotlib"></a></td>
+    <td align="center" style="border: none;"><a href="https://seaborn.pydata.org/"><img src="https://img.icons8.com/color/48/seaborn.png" width="36" height="36" alt="Seaborn"></a></td>
+    <td align="center" style="border: none;"><a href="https://plotly.com/"><img src="https://img.icons8.com/color/48/plotly.png" width="36" height="36" alt="Plotly"></a></td>
+    <td align="center" style="border: none;"><a href="https://streamlit.io/"><img src="https://img.icons8.com/color/48/streamlit.png" width="36" height="36" alt="Streamlit"></a></td>
+  </tr>
+</table>
+
 ---
 ###  Mi Portfolio
 - [![Mi Portfolio de servicio](https://img.shields.io/badge/portfolio%20de%20servicio-5d0ff3?style=for-the-badge)](https://walter-portfolio-animado.netlify.app/) 
