@@ -57,10 +57,10 @@
   </tr>
 </table>
 
-### Skills
+### Skills optional
 
 <table align="center">
-  <!-- Fila 1: Lenguajes y General -->
+  <!-- Fila 1: Lenguajes y Herramientas Base -->
   <tr>
     <td align="center"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"></a></td>
     <td align="center"><a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"></a></td>
@@ -72,7 +72,7 @@
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"></a></td>
     <td align="center"><a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"></a></td>
   </tr>
-  <!-- Fila 2: Frameworks y DB -->
+  <!-- Fila 2: Frameworks y Bases de Datos -->
   <tr>
     <td align="center"><a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"></a></td>
     <td align="center"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="NextJs"></a></td>
@@ -84,17 +84,17 @@
     <td align="center"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"></a></td>
     <td align="center"><a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"></a></td>
   </tr>
-  <!-- Fila 3: Data Science e IA (Corregida) -->
+  <!-- Fila 3: Data Science e IA (Usando Simple Icons para máxima compatibilidad) -->
   <tr>
-    <td align="center"><a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"></a></td>
-    <td align="center"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"></a></td>
-    <td align="center"><a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn"></a></td>
-    <td align="center"><a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas"></a></td>
-    <td align="center"><a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy"></a></td>
-    <td align="center"><a href="https://matplotlib.org/"><img src="https://skillicons.dev/icons?i=matplotlib" width="40" height="40" alt="Matplotlib"></a></td>
-    <td align="center"><a href="https://plotly.com/"><img src="https://skillicons.dev/icons?i=plotly" width="40" height="40" alt="Plotly"></a></td>
-    <td align="center"><a href="https://streamlit.io/"><img src="https://img.icons8.com/color/48/streamlit.png" width="40" height="40" alt="Streamlit"></a></td>
-    <td align="center"><a href="https://scipy.org/"><img src="https://img.icons8.com/color/48/scipy.png" width="40" height="40" alt="SciPy"></a></td>
+    <td align="center"><a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="35" height="35" alt="TensorFlow"></a></td>
+    <td align="center"><a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="35" height="35" alt="PyTorch"></a></td>
+    <td align="center"><a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="35" height="35" alt="Scikit-Learn"></a></td>
+    <td align="center"><a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" width="35" height="35" alt="Pandas"></a></td>
+    <td align="center"><a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" width="35" height="35" alt="NumPy"></a></td>
+    <td align="center"><a href="https://matplotlib.org/"><img src="https://cdn.simpleicons.org/matplotlib/ffffff" width="35" height="35" alt="Matplotlib"></a></td>
+    <td align="center"><a href="https://plotly.com/"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="35" height="35" alt="Plotly"></a></td>
+    <td align="center"><a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="35" height="35" alt="Streamlit"></a></td>
+    <td align="center"><a href="https://scipy.org/"><img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="35" height="35" alt="SciPy"></a></td>
   </tr>
 </table>
 ---
