@@ -23,7 +23,7 @@
 ---
 ### Skills 
 <table align="center">
-  <!-- Primera Fila: Lenguajes y Herramientas Base -->
+  <!-- Primera Fila: Lenguajes y Herramientas Base (13 items) -->
   <tr>
     <td align="center"><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"></a></td>
     <td align="center"><a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"></a></td>
@@ -39,7 +39,7 @@
     <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"></a></td>
     <td align="center"><a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs"></a></td>
   </tr>
-  <!-- Segunda Fila: Frameworks, Databases y Data Science -->
+  <!-- Segunda Fila: Frameworks, Databases, Data Science y Streamlit (13 items) -->
   <tr>
     <td align="center"><a href="https://angular.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular"></a></td>
     <td align="center"><a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery"></a></td>
@@ -53,6 +53,7 @@
     <td align="center"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"></a></td>
     <td align="center"><a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase"></a></td>
     <td align="center"><a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"></a></td>
+    <td align="center"><a href="https://streamlit.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/streamlit-colored.svg" width="36" height="36" alt="Streamlit"></a></td>
   </tr>
 </table>
 
